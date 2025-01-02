@@ -1,4 +1,4 @@
-# Adidas E-Commerce Store (Basic)
+# Adidas Cambodia Branch 
 
 This is a basic e-commerce platform for Adidas products, built using Node.js, Express.js, and EJS. It demonstrates essential concepts like product listing, shopping cart functionality, and simple user authentication.
 
